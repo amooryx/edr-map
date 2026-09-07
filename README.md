@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="edr-map" width="800">
+</div>
+
 # edr-map
 
 > Red team security tool — authorized use only.
