@@ -1,8 +1,8 @@
-﻿# edr-map
+# edr-map
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python edr_map.py --help
 ```
 
